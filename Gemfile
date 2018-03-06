@@ -7,5 +7,7 @@ ruby '2.5.0'
 # end
 
 # gem "rails"
+gem 'capybara'
+gem 'selenium-webdriver'
 gem 'sinatra'
 gem 'shotgun'
